@@ -1,0 +1,10 @@
+<% test_batch_id = "#{ENV['TEST_ENV_NUMBER']}" %>
+
+default: >
+  --publish-quiet --format pretty --format html --out report.html
+
+
+parallel: >
+  --publish-quiet
+  --format pretty
+  --format json --out reports/json/report<%= test_batch_id %>.json
