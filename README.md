@@ -8,7 +8,7 @@ https://docs.google.com/document/d/1CDoyp0NHsZfQy12Tr4SrGzoBqSC4MOPsWCWwbT2JOcI/
 
 
 ## Screencast
-TBD
+https://www.loom.com/share/164384dce44e437eaf59cce0c2db0d73
 
 ## Setup
 
